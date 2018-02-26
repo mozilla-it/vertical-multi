@@ -3,3 +3,5 @@ vertical:
   repo: "https://github.com/gozer/vertical.git"
 etl:
   repo: "https://github.com/gozer/vertical-etl.git"
+tableau:
+  repo: "https://github.com/gozer/vertical-tableau.git"
