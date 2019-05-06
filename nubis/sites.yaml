@@ -8,4 +8,4 @@ ltv:
 tableau:
   repo: "https://github.com/gozer/vertical-tableau.git"
 admin:
-  repo: "https://github.com/mozilla-itcloud/vertical-admin.git"
+  repo: "https://github.com/mozilla-it/vertical-admin.git"
