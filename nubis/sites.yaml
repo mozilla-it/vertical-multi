@@ -4,8 +4,8 @@ vertical:
 etl:
   repo: "https://github.com/mozilla-it/vertical-etl.git"
 ltv:
-  repo: "https://github.com/gozer/vertical-ltv.git"
+  repo: "https://github.com/mozilla-it/vertical-ltv.git"
 tableau:
-  repo: "https://github.com/gozer/vertical-tableau.git"
+  repo: "https://github.com/mozilla-it/vertical-tableau.git"
 admin:
   repo: "https://github.com/mozilla-it/vertical-admin.git"
