@@ -2,7 +2,7 @@
 vertical:
   repo: "https://github.com/gozer/vertical.git"
 etl:
-  repo: "https://github.com/gozer/vertical-etl.git"
+  repo: "https://github.com/mozilla-it/vertical-etl.git"
 ltv:
   repo: "https://github.com/gozer/vertical-ltv.git"
 tableau:
