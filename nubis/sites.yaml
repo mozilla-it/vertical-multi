@@ -3,8 +3,6 @@ vertical:
   repo: "https://github.com/gozer/vertical.git"
 etl:
   repo: "https://github.com/mozilla-it/vertical-etl.git"
-ltv:
-  repo: "https://github.com/mozilla-it/vertical-ltv.git"
 tableau:
   repo: "https://github.com/mozilla-it/vertical-tableau.git"
 admin:
